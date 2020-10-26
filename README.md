@@ -1,5 +1,7 @@
 # DataProfiling
-Profiling algo using deequ Amazon Package
+Profiling algo using deequ Amazon Package. <br><br>
+Data Profiling is the process of running analysis on source data to understand it’s structure and content.
+BigData Processing depends on it !!
 
 My Own Data Profiling Implementation Code
 https://github.com/brunoRenzo6/Stock-Market-Network/blob/main/Complex%20Networks-GitHubCode.ipynb
