@@ -16,7 +16,7 @@ Test Data Quality at scale with Deequ | AWS Big Data Blog
 https://aws.amazon.com/blogs/big-data/test-data-quality-at-scale-with-deequ/
 
 #### Databricks (application)
-Interesting application running Deequ and Delta Lake to process Streaming Data
+Streaming Data Quality
 https://databricks.com/notebooks/streaming-data-quality.html
 
 ![](Data-profiling-tools.jpg)
